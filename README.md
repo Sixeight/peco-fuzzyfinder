@@ -11,7 +11,7 @@ go build peco-fuzzyfinder.go
 
 ## Configuration
 
-Add below into you `~/.peco/config.json`
+Add below into your `~/.peco/config.json`
 
 ```json
 "CustomFilter": {
