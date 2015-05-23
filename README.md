@@ -16,7 +16,7 @@ Add below into you `~/.peco/config.json`
 ```json
 "CustomFilter": {
   "FuzzyFinder": {
-    "Cmd": "/Users/tomohiro/.go/src/github.com/Sixeight/peco-fuzzyfinder/peco-fuzzyfinder",
+    "Cmd": "/path/to/peco-fuzzyfinder",
     "Args": [ "$QUERY" ]
   }
 }
